@@ -17,7 +17,7 @@
     color: white;
 }
 .row p {
-    color: rgb(125, 109, 80);
+    color: rgb(234, 159, 20);
 
 }
 .category   {
@@ -38,4 +38,16 @@
 .cat1, .cat2, .cat3 {
  padding: 0px 30px;
 }
-
+#contact {
+    height: 250px;
+    width: 650px;
+ }
+ #contact h5 {
+    color: darkblue;
+ }
+ .card {
+    box-shadow: 5px 5px 10px rgb(97, 72, 72);
+}
+h1, .card {
+    color: rgb(170, 22, 15);
+ }

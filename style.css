@@ -1,0 +1,37 @@
+.carousel {
+
+    border: 3px solid rgb(48, 58, 58);
+    border-radius: 12px;
+    background-color: rgb(222, 228, 166);
+    margin: 30px;
+    margin-left: 160px;
+    padding: 20px 12px;
+    width: 65%;
+    height: 70%;
+}
+
+.row h3{
+    color: red;
+}
+.row h1 {
+    color: rgb(41, 38, 36);
+}
+.row p {
+    color: rgb(64, 44, 7);
+
+}
+.love {
+    border: 2px solid rgb(34, 36, 42);
+    border-radius: 8px;
+    width: 30%;
+   height: 210px;
+background-color: orange;}
+  
+.lol {
+    color: white;
+
+}
+
+.love img{
+   margin-left: 210px;
+}

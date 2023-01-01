@@ -14,24 +14,28 @@
     color: red;
 }
 .row h1 {
-    color: rgb(41, 38, 36);
+    color: white;
 }
 .row p {
-    color: rgb(64, 44, 7);
+    color: rgb(125, 109, 80);
 
 }
-.love {
-    border: 2px solid rgb(34, 36, 42);
+.category   {
+    border: 1px solid rgb(34, 36, 42);
     border-radius: 8px;
-    width: 30%;
-   height: 210px;
-background-color: orange;}
-  
-.lol {
-    color: white;
-
+    width: auto;
+   height: auto;
+}
+.row .cat1  {
+    background-color: aqua;
+}
+.cat2 {
+    background-color: aquamarine;
+}
+.cat3 {
+    background-color: blueviolet;
+}
+.cat1, .cat2, .cat3 {
+ padding: 0px 30px;
 }
 
-.love img{
-   margin-left: 210px;
-}
